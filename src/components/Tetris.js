@@ -43,7 +43,7 @@ const Tetris = () => {
             if (player.pos.y < 1) {
                 console.log('GAME OVER')
             }
-            updatePlayerPos(player, stage, { x: 0, y: 0, collided: true })
+            updatePlayerPos({ x: 0, y: 0, collided: true })
         }
     }
 
