@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-tetris-tutorial/static/css/main.5865e1c5.chunk.css",
+    "main.js": "/react-tetris-tutorial/static/js/main.a9ef38a9.chunk.js",
+    "main.js.map": "/react-tetris-tutorial/static/js/main.a9ef38a9.chunk.js.map",
+    "runtime-main.js": "/react-tetris-tutorial/static/js/runtime-main.a042389b.js",
+    "runtime-main.js.map": "/react-tetris-tutorial/static/js/runtime-main.a042389b.js.map",
+    "static/js/2.d9129e91.chunk.js": "/react-tetris-tutorial/static/js/2.d9129e91.chunk.js",
+    "static/js/2.d9129e91.chunk.js.map": "/react-tetris-tutorial/static/js/2.d9129e91.chunk.js.map",
+    "index.html": "/react-tetris-tutorial/index.html",
+    "precache-manifest.fd32be0a1d931acb3147a65e0823f37d.js": "/react-tetris-tutorial/precache-manifest.fd32be0a1d931acb3147a65e0823f37d.js",
+    "service-worker.js": "/react-tetris-tutorial/service-worker.js",
+    "static/css/main.5865e1c5.chunk.css.map": "/react-tetris-tutorial/static/css/main.5865e1c5.chunk.css.map",
+    "static/js/2.d9129e91.chunk.js.LICENSE.txt": "/react-tetris-tutorial/static/js/2.d9129e91.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/react-tetris-tutorial/static/media/Pixel-LCD-7.e2897552.woff",
+    "static/media/bg.png": "/react-tetris-tutorial/static/media/bg.2810fe6b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a042389b.js",
+    "static/js/2.d9129e91.chunk.js",
+    "static/css/main.5865e1c5.chunk.css",
+    "static/js/main.a9ef38a9.chunk.js"
+  ]
+}
